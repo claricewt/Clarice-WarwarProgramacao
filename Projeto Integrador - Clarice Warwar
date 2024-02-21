@@ -1,13 +1,24 @@
+TRABALHO 1 - CONCEITOS INICIAIS
+
 O que é um arquivo?
 R: No contexto da programação, arquivo é um conjunto de dados armazenados e que estão de alguma forma relacionados, seguindo um formato (texto, imagem e outros) digital, 
 em um dispositivo externo de armazenamento.
+
 O que é um arquivo de texto?
 R: Se trata de um arquivo que contém texto estruturado em linhas e armazenam informações.
 Esses podem estar no formato “.txt”, por exemplo, sendo uma extensão de arquivo para os
 que não possuem formatação. Eles são lidos e interpretados de forma fácil por qualquer um,
 sendo considerados universais.
+
 O que é uma variável?
 R: É uma forma de armazenar valores manipulados pelos programas enquanto operam.
 Alguns exemplos, podemos citar a “double”, que permite armazenamento de números reais, “char”, para armazenar um único caractere, entre outras.
+
 O que é um servidor?
 R: Computadores/sistemas computacionais que atendem dispositivos através de redes, executando aplicações - prestando serviços, armazenando dados, etc.
+
+TRABALHO 2 - COMPUTADORES E ARQUIVOS
+
+A relação entre a LGPD e os Data Centers no Brasil:
+R: LGPD veio para garantir a segurança das informações dos dados pessoais que, hoje expostos, correm risco. Os Data Centers são instalações 
+que hospedam recursos da infraestrutura de TI. A LGPD trata dessa segurança 
