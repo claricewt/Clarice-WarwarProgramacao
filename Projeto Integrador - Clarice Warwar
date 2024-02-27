@@ -21,4 +21,26 @@ TRABALHO 2 - COMPUTADORES E ARQUIVOS
 
 A relação entre a LGPD e os Data Centers no Brasil:
 R: LGPD veio para garantir a segurança das informações dos dados pessoais que, hoje expostos, correm risco. Os Data Centers são instalações 
-que hospedam recursos da infraestrutura de TI. A LGPD trata dessa segurança 
+que hospedam recursos da infraestrutura de TI. A LGPD trata dessa segurança atribuindo responsabilidade às empresas que controlam
+e processam dados processuais. Caso um Data Center brasileiro processe dados pessoais que serão transferidos para fora do 
+país, é necessário observar as regras e regulamentações da LGPD. Os Data Centers têm um papel fundamental na conformidade com
+a LGPD, uma vez que oferecem a infraestrutura e os serviços necessários para atender aos princípios e requisitos estipulados pela legislação de proteção de dados. 
+
+Dados proprietários e abertos:
+R: Dados proprietários referem-se a informações que são de propriedade exclusiva de uma empresa ou organização. Dados abertos
+referem-se a informações que estão disponíveis para o público em geral sem restrições significativas.
+
+-Proprietários:
+Excel (XLSX): Um formato de planilha da Microsoft.
+Adobe Illustrator (AI): Usado para gráficos vetoriais.
+
+-Abertos:
+CSV (Comma-Separated Values): Um formato simples e amplamente utilizado para dados tabulares.
+JSON (JavaScript Object Notation): Formato de intercâmbio de dados legível por humanos e fácil de entender.
+
+-Implicações relacionadas a dados públicos:
+Proprietários: O custo associado à aquisição e atualização de software específico pode ser uma consideração para organizações ou usuários individuais.
+Abertos: Muitos formatos abertos são gratuitos, reduzindo os custos associados à adoção e uso.
+
+Proprietários: A falta de padronização pode levar a variações nos formatos entre diferentes versões de software.
+Abertos: Muitos formatos abertos são padronizados por organizações reconhecidas, promovendo consistência e interoperabilidade.
