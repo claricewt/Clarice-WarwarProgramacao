@@ -1,41 +1,153 @@
-print ("CLARICE")
+Python 3.12.1 (tags/v3.12.1:2305ca5, Dec  7 2023, 22:03:25) [MSC v.1937 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
 
-número = 10
-nome = "Clarice"
-booleano = True
-a = 10
-b = 5
-soma = a + b
-subtração = a - b
-multiplicação = a * b
-divisão = a / b
-c = 5
-d = 6
-e = 7
-f = 8
-frase = "eu sou linda"
-palavra = "louca"
-media = (c + d + e + f) / 4
-print("A média é", media)
-      
-quadrado = c * c
-print ("O quadrado do número 5 é", quadrado)
+======================================================== RESTART: C:/Users/202102531055/Desktop/Claricee.py =======================================================
+soma (6,5)
+11
 
-dobro = c * 2
-print ("O dobro do número 5 é", dobro)
+======================================================== RESTART: C:/Users/202102531055/Desktop/Claricee.py =======================================================
+def hipotenusa (3, 4):
+    return soma(quadrado(3), quadrado (4))**(1/2)
+SyntaxError: invalid syntax
+SyntaxError: invalid syntax
+SyntaxError: invalid syntax
+hipotenusa (3,4)
+5.0
 
-frase = "eu sou linda"
-quantidade_letras = len (frase)
-print ("A frase tem", quantidade_letras, "letras.")
+======================================================== RESTART: C:/Users/202102531055/Desktop/Claricee.py =======================================================
+def simples (rosa)
+SyntaxError: expected ':'
+def simples(rosa)
+SyntaxError: expected ':'
+simples (rosa)
+Traceback (most recent call last):
+  File "<pyshell#10>", line 1, in <module>
+    simples (rosa)
+NameError: name 'rosa' is not defined
+simples (azul)
+Traceback (most recent call last):
+  File "<pyshell#11>", line 1, in <module>
+    simples (azul)
+NameError: name 'azul' is not defined
 
-quantidade_espacos = frase.count (" ")
-print ("a quantidade de espaços na frase é", quantidade_espacos)
+======================================================== RESTART: C:/Users/202102531055/Desktop/Claricee.py =======================================================
+simples('azul')
+'escolher certo'
+simples('amarelo')
 
-if c > d:
-    print ("o c é maior que d.")
-else:
-    print ("o d é maior que a.")
+======================================================== RESTART: C:/Users/202102531055/Desktop/Claricee.py =======================================================
+medio('azul')
+'escolheu certo'
+medio('roxo')
+'tente outra cor'
+medio('marrom')
+'tente outra cor'
 
-maior_numero = max (c,d,e,f)
-print ("o maior número é:", maior_numero)
-    
+======================================================== RESTART: C:/Users/202102531055/Desktop/Claricee.py =======================================================
+completo('marrom')
+'não tem salvação'
+completo('azul')
+'escolheu certo'
+completo('branco')
+'tente outra cor'
+completo
+<function completo at 0x00000294E85FA980>
+
+======================================================== RESTART: C:/Users/202102531055/Desktop/Claricee.py =======================================================
+completo('rosa')
+'cor mais bonita'
+
+======================================================== RESTART: C:/Users/202102531055/Desktop/Claricee.py =======================================================
+1
+5
+[10, 2, 3, 4, 5]
+[10, 2, 3, 4, 5]
+[10, 2, 3, 4, 5]
+3
+3
+
+======================================================== RESTART: C:/Users/202102531055/Desktop/Claricee.py =======================================================
+1
+5
+[10, 2, 3, 4, 5]
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+45
+78
+a
+[3, 5]
+m
+i
+n
+h
+a
+ 
+s
+t
+r
+i
+n
+g
+>>> 
+======================================================== RESTART: C:/Users/202102531055/Desktop/Claricee.py =======================================================
+1
+5
+[10, 2, 3, 4, 5]
+=== começando o while ===
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+=== começando o for com range(10) ===
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+45
+78
+a
+[3, 5]
+m
+i
+n
+h
+a
+ 
+s
+t
+r
+i
+n
+g
